@@ -111,5 +111,5 @@ microsoft-365-enterprise-rollout/
 **Rajan Kumar** · Cloud / DevOps Engineer · Toronto, GTA
 Open to Co-op (September 2026) · Authorized to work in Canada
 
-- LinkedIn: [linkedin.com/in/imrajankumar95](https://linkedin.com/in/imrajankumar95)
+- LinkedIn: [linkedin.com/in/imrajankumar95](https://linkedin.com/in/rajankumar95)
 - GitHub: [github.com/imrajankumar95](https://github.com/imrajankumar95)
